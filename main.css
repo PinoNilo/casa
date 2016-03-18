@@ -1,0 +1,48 @@
+.block{
+	width: 900px;
+	height: 600px;
+	border: 1px solid;
+	
+}
+
+
+.block1{
+	width: 800px;
+	height: 800px;
+	left: 20px;
+
+
+}
+
+.fotos{
+	width: 600px;
+	height: 300px;
+	display: inline-block;
+	border:1px solid block;
+	
+}
+
+.blockparrafo{
+width: 680px;
+height: 680px;
+
+}
+
+.block4{
+	width: 800px;
+	height: 800px;
+	left: 700px;
+	
+	bottom: 300px;
+	top: 600px;
+	
+}
+
+.block2{
+    width: 600px;
+	height: 600px;
+	border:1px solid;
+	
+
+
+
